@@ -20,7 +20,7 @@ Every day includes:
 5. **Reflection** (5 min): Evening checkpoint.
 
 **Weekly Progression**: Increase reps/time slightly on Days 8,15,22,29.
-
+ 
 ---
 
 ### Week 1: Foundation (Days 1-7)
