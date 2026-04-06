@@ -7,7 +7,7 @@ A quiet system for building physical fitness, observation skills, mental clarity
 - No skipping. If a day is missed, restart from Day 1.
 - Track completion in a simple log: date, tasks done (yes/no), one-sentence reflection.
 - Environment: Quiet space, comfortable clothing, notebook/pen for notes.
-- Nutrition baseline: Water (2L min), no junk; eat whole foods.
+- Nutrition baseline: Water (2L min), no junk; eat whole foods. 
 - Sleep: 7-8 hours, same bedtime.
 - No screens 1 hour before bed.
 
