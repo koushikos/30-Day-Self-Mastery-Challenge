@@ -10,7 +10,7 @@ A quiet system for building physical fitness, observation skills, mental clarity
 - Nutrition baseline: Water (2L min), no junk; eat whole foods. 
 - Sleep: 7-8 hours, same bedtime.
 - No screens 1 hour before bed.
-
+ 
 ## Daily Structure
 Every day includes:
 1. **Fitness Block** (20-40 min): Strength, stamina, posture.
