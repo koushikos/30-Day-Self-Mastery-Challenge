@@ -12,7 +12,7 @@ A quiet system for building physical fitness, observation skills, mental clarity
 - No screens 1 hour before bed. 
  
 ## Daily Structure
-Every day includes:
+Every day includes: 
 1. **Fitness Block** (20-40 min): Strength, stamina, posture.
 2. **Observation Training** (10 min): Awareness drills.
 3. **Mental Discipline** (15 min): Focus and thought control.
